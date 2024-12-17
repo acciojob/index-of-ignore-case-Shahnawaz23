@@ -1,6 +1,6 @@
 function indexOfIgnoreCase(s1, s2) {
   // write your code here
-	 if (!subStr) return 0; .
+	 if (!subStr) return 0; 
     return str.toLowerCase().indexOf(subStr.toLowerCase());
 }
 
